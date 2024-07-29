@@ -1,5 +1,6 @@
 package com.example;
 
+// this is a test comment
 public class App {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
